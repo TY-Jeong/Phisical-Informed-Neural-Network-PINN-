@@ -5,5 +5,5 @@ This example predicts the exact ODE equation and the corresponding solution for 
 
 For description of damped harmonic oscillator, See https://beltoforion.de/en/harmonic_oscillator/
 
-![](pinn_ver5.gif)
+![](./results/pinn_ver5.gif)
 
