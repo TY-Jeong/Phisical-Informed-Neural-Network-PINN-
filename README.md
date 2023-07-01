@@ -1,9 +1,7 @@
 # pinn_damped-harmonic-oscillator
 PINN (Physical Informed Neural Network)
-In this project, we addressed inverse problem of PINN.
-That is, if we got some data (with or without noise), this network predict not only an ODE solution but also an ODE equation.
-
-Here, I will give you an example dealing a few noise data to predict the exact ODE eaquation and soultion.
+This project addressed inverse problem of PINN.
+This example predicts the exact ODE equation and the corresponding solution for damped harmonic oscillator when a few noist data is given.
 
 ![](pinn_ver5.gif)
 
