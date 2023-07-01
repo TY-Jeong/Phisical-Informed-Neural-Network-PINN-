@@ -1,1 +1,2 @@
-# pinn_damped
+# pinn_damped-harmonic-oscillator
+Damped harmonic oscillator
